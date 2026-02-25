@@ -8,3 +8,10 @@ tiny_nerf_data.npz
 PennFudanPed/
 *.pt
 *.pth
+dataset/
+repository/
+results/
+sst2_2025/
+**/sst2_2025/
+sst2_2025.zip
+sst2_2025_unzip/
